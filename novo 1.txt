@@ -1,5 +1,0 @@
-- PGDATABASE=postgres
-- PGUSER=postgres
-- PGPASSWORD=postgrespassword
-DB instance identifier = fibvalues
-DB name* fibvalues
